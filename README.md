@@ -1,1 +1,2 @@
 # UniqueDeviceIdentifier
+iOS9中生成唯一App设备标识
